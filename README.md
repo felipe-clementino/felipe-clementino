@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Seu Nome]
+ # Hi 👋, I'm Felipe Clementino
 
-☕ **Java Developer | Future Backend Engineer**
+☕ **Java Developer | Future Backend Engineer**  
 🇧🇷 Brazil
 
 I'm passionate about software development and currently focused on building my career as a **Backend Developer with Java**.
@@ -15,8 +15,9 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 <p align="left">
   <a href="https://github.com/felipe-clementino">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-felipe--clementino-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/felipe-clementino">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,13 +27,13 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ## 🎯 Current Focus
 
-*  Java Development
-*  Learning Spring Boot
-*  REST API Development
-*  Databases (MySQL & PostgreSQL)
-*  Backend Architecture
-*  Version Control with Git & GitHub
-*  Continuous Learning
+- ☕ Java Development  
+- 🌱 Learning Spring Boot  
+- 🔗 REST API Development  
+- 🗄️ Databases (MySQL & PostgreSQL)  
+- 🏗️ Backend Architecture  
+- 🔄 Version Control with Git & GitHub  
+- 📚 Continuous Learning  
 
 ---
 
@@ -40,36 +41,36 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ### Current Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Currently Learning
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipe-clementino&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-clementino&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Goals for 2026
 
-*  Strengthen Java fundamentals
-*  Master Spring Boot
-*  Build complete REST APIs
-*  Improve database knowledge
-*  Learn Docker and deployment
-*  Land my first Backend Developer opportunity
+- ☑️ Strengthen Java fundamentals  
+- 🔄 Master Spring Boot  
+- 🔗 Build complete REST APIs  
+- 🗄️ Improve database knowledge  
+- 🐳 Learn Docker and deployment  
+- 💼 Land my first Backend Developer opportunity  
 
 ---
 
@@ -79,6 +80,5 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ---
 
-⭐ Thanks for visiting my profile!
-
+⭐ Thanks for visiting my profile!  
 📚 Always learning, building, and improving.
