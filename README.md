@@ -11,7 +11,7 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 
 <p align="left">
 <a href="https://instagram.com/__felipeclementino" >
@@ -27,13 +27,13 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ## 🎯 Foco atual
 
-- ☕ Desenvolvimento Java  
-- 🌱 Aprendendo Spring Boot  
-- 🔗 Desenvolvimento de APIs REST  
-- 🗄️ Bancos de dados (MySQL & PostgreSQL)  
-- 🏗️ Arquitetura Backend  
-- 🔄 Versionamento com Git & GitHub  
-- 📚 Aprendizado contínuo  
+-  Desenvolvimento Java  
+-  Aprendendo Spring Boot  
+-  Desenvolvimento de APIs REST  
+-  Bancos de dados (MySQL & PostgreSQL)  
+-  Arquitetura Backend  
+-  Versionamento com Git & GitHub  
+-  Aprendizado contínuo  
 
 ---
 
@@ -56,12 +56,12 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ## 🚀 Objetivos para 2026
 
-- ☑️ Fortalecer fundamentos de Java  
-- 🔄 Dominar Spring Boot  
-- 🔗 Construir APIs REST completas  
-- 🗄️ Melhorar conhecimento em bancos de dados  
-- 🐳 Aprender Docker e deploy  
-- 💼 Conseguir minha primeira vaga como Backend Developer  
+-  Fortalecer fundamentos de Java  
+-  Dominar Spring Boot  
+-  Construir APIs REST completas  
+-  Melhorar conhecimento em bancos de dados  
+-  Aprender Docker e deploy  
+-  Conseguir minha primeira vaga como Backend Developer  
 
 ---
 
