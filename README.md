@@ -15,7 +15,7 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 <p align="left">
   <a href="https://github.com/felipe-clementino">
-    <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/felipe-clementino">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
