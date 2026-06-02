@@ -19,7 +19,7 @@ My goal is to create reliable, scalable, and well-structured applications while 
   </a>
  <br>
   <a href="https://linkedin.com/in/felipe-Clementino" >
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe-clementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/felipe-clementino/" />
   </a>
 </p>
 
