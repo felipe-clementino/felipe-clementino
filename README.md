@@ -1,13 +1,13 @@
- # Hi 👋, I'm Felipe Clementino
+# Hi 👋, I'm Felipe Clementino
 
-☕ **Java Developer | Future Backend Engineer**  
-🇧🇷 Brazil
+☕ **Desenvolvedor Java | Futuro Backend Engineer**  
+🇧🇷 Brasil
 
-I'm passionate about software development and currently focused on building my career as a **Backend Developer with Java**.
+Sou apaixonado por desenvolvimento de software e atualmente estou focado em construir minha carreira como **Desenvolvedor Backend com Java**.
 
-At the moment, I have experience with **Java** and I'm continuously studying technologies from the Java ecosystem such as **Spring Boot, APIs, Databases, and Software Architecture**.
+No momento, tenho experiência com **Java** e estou continuamente estudando tecnologias do ecossistema Java, como **Spring Boot, APIs, Bancos de Dados e Arquitetura de Software**.
 
-My goal is to create reliable, scalable, and well-structured applications while constantly improving my skills as a developer.
+Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, enquanto evoluo constantemente minhas habilidades como desenvolvedor.
 
 ---
 
@@ -25,27 +25,27 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Foco atual
 
--  Java Development  
--  Learning Spring Boot  
--  REST API Development  
--  Databases (MySQL & PostgreSQL)  
--  Backend Architecture  
--  Version Control with Git & GitHub  
--  Continuous Learning  
+- ☕ Desenvolvimento Java  
+- 🌱 Aprendendo Spring Boot  
+- 🔗 Desenvolvimento de APIs REST  
+- 🗄️ Bancos de dados (MySQL & PostgreSQL)  
+- 🏗️ Arquitetura Backend  
+- 🔄 Versionamento com Git & GitHub  
+- 📚 Aprendizado contínuo  
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
-### Current Skills
+### Conhecimentos atuais
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Currently Learning
+### Estudando atualmente
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,22 +54,22 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ---
 
-## 🚀 Goals for 2026
+## 🚀 Objetivos para 2026
 
--  Strengthen Java fundamentals  
--  Master Spring Boot  
--  Build complete REST APIs  
--  Improve database knowledge  
--  Learn Docker and deployment  
--  Land my first Backend Developer opportunity  
-
----
-
-## 💡 Philosophy
-
-> "Every expert was once a beginner. Consistency and practice build great developers."
+- ☑️ Fortalecer fundamentos de Java  
+- 🔄 Dominar Spring Boot  
+- 🔗 Construir APIs REST completas  
+- 🗄️ Melhorar conhecimento em bancos de dados  
+- 🐳 Aprender Docker e deploy  
+- 💼 Conseguir minha primeira vaga como Backend Developer  
 
 ---
 
-⭐ Thanks for visiting my profile!  
-📚 Always learning, building, and improving.
+## 💡 Filosofia
+
+> "Todo especialista já foi iniciante. Consistência e prática constroem grandes desenvolvedores."
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+📚 Sempre aprendendo, construindo e evoluindo.
