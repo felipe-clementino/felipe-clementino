@@ -27,13 +27,13 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ## 🎯 Current Focus
 
-- ☕ Java Development  
-- 🌱 Learning Spring Boot  
-- 🔗 REST API Development  
-- 🗄️ Databases (MySQL & PostgreSQL)  
-- 🏗️ Backend Architecture  
-- 🔄 Version Control with Git & GitHub  
-- 📚 Continuous Learning  
+-  Java Development  
+-  Learning Spring Boot  
+-  REST API Development  
+-  Databases (MySQL & PostgreSQL)  
+-  Backend Architecture  
+-  Version Control with Git & GitHub  
+-  Continuous Learning  
 
 ---
 
@@ -65,12 +65,12 @@ My goal is to create reliable, scalable, and well-structured applications while 
 
 ## 🚀 Goals for 2026
 
-- ☑️ Strengthen Java fundamentals  
-- 🔄 Master Spring Boot  
-- 🔗 Build complete REST APIs  
-- 🗄️ Improve database knowledge  
-- 🐳 Learn Docker and deployment  
-- 💼 Land my first Backend Developer opportunity  
+-  Strengthen Java fundamentals  
+-  Master Spring Boot  
+-  Build complete REST APIs  
+-  Improve database knowledge  
+-  Learn Docker and deployment  
+-  Land my first Backend Developer opportunity  
 
 ---
 
