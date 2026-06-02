@@ -18,8 +18,8 @@ My goal is to create reliable, scalable, and well-structured applications while 
     <img src="https://img.shields.io/badge/Instagram-@__felipeclementino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
  <br>
-  <a href="https://linkedin.com/in/felipeClementino" >
-    <img src="https://img.shields.io/badge/LinkedIn-FelipeClementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/felipe-Clementino" >
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe-clementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
