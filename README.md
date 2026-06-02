@@ -14,10 +14,10 @@ My goal is to create reliable, scalable, and well-structured applications while 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/felipe-clementino">
-    <img src="https://img.shields.io/badge/GitHub-felipe--clementino-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
+ 
   <a href="https://linkedin.com/in/felipe-clementino">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -57,8 +57,8 @@ My goal is to create reliable, scalable, and well-structured applications while 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipe-clementino&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-clementino&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
 ---
