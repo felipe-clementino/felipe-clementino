@@ -14,10 +14,10 @@ My goal is to create reliable, scalable, and well-structured applications while 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/felipe-clementino">
     <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://linkedin.com/in/felipe-clementino">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
