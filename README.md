@@ -14,12 +14,12 @@ My goal is to create reliable, scalable, and well-structured applications while 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/__felipeclementino" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@__felipeclementino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+<a href="https://instagram.com/__felipeclementino" >
+    <img src="https://img.shields.io/badge/Instagram-@__felipeclementino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
  <br>
-  <a href="https://linkedin.com/in/felipeClementino" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe-Clementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="https://linkedin.com/in/felipeClementino" >
+    <img src="https://img.shields.io/badge/LinkedIn-FelipeClementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
