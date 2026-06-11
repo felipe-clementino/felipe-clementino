@@ -13,11 +13,6 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ## 🌐 Conecte-se comigo
 
-<p align="left">
-<a href="https://instagram.com/__felipeclementino" >
-    <img src="https://img.shields.io/badge/Instagram-@__felipeclementino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
- <br>
   <a href="https://linkedin.com/in/felipe-clementino">
   <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Clementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
