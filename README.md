@@ -1,6 +1,6 @@
 # Hi 👋, I'm Felipe Clementino
 
-☕ **Desenvolvedor Java | Futuro Backend Engineer**  
+☕ **Desenvolvedor| Futuro Backend Engineer**  
 🇧🇷 Brasil
 
 Sou apaixonado por desenvolvimento de software e atualmente estou focado em construir minha carreira como **Desenvolvedor Backend com Java**.
