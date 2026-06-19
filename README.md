@@ -3,7 +3,7 @@
 ☕ **Desenvolvedor | Futuro Backend Engineer**  
 🇧🇷 Brasil
 
-Sou apaixonado por desenvolvimento de software e atualmente estou focado em construir minha carreira como **Desenvolvedor Backend com Java**.
+Sou apaixonado por desenvolvimento de software e atualmente estou focado em construir minha carreira como **Desenvolvedor Backend**.
 
 No momento, tenho experiência com **Java** e estou continuamente estudando tecnologias do ecossistema Java, como **Spring Boot, APIs, Bancos de Dados e Arquitetura de Software**.
 
