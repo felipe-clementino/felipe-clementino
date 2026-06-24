@@ -1,6 +1,6 @@
 # Hi 👋, I'm Felipe Clementino
 
-☕ **Desenvolvedor | Futuro Backend Engineer**  
+**Futuro Backend Engineer**  
 🇧🇷 Brasil
 
 Sou apaixonado por desenvolvimento de software e atualmente estou focado em construir minha carreira como **Desenvolvedor Backend**.
@@ -8,15 +8,6 @@ Sou apaixonado por desenvolvimento de software e atualmente estou focado em cons
 No momento, tenho experiência com **Java** e estou continuamente estudando tecnologias do ecossistema Java, como **Spring Boot, APIs, Bancos de Dados e Arquitetura de Software**.
 
 Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, enquanto evoluo constantemente minhas habilidades como desenvolvedor.
-
----
-
-## 🌐 Conecte-se comigo
-
-  <a href="https://linkedin.com/in/felipe-clementino">
-  <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Clementino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
 
 ---
 
