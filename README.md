@@ -51,11 +51,5 @@ Meu objetivo é criar aplicações confiáveis, escaláveis e bem estruturadas, 
 
 ---
 
-## 💡 Filosofia
-
-> "Todo especialista já foi iniciante. Consistência e prática constroem grandes desenvolvedores."
-
----
-
 ⭐ Obrigado por visitar meu perfil!  
 📚 Sempre aprendendo, construindo e evoluindo.
